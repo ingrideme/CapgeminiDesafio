@@ -38,8 +38,14 @@ Calculadora.java = 1ª Parte – Uma calculadora de alcance de anúncio online.
 
 Anuncio.java = 2ª Parte - Um sistema de cadastro de anúncios.
 
+## Futuras Implementações 💻
+- Banco de dados;
+- Filtro por relatórios;
+- Front End da aplicação;
 
-
+Não foi possível a implementação até o momento de tais funcionalidades, mas está previsto para futuras implementações com MySQL para o banco de dados, com um relacionamento  entre uma uma entidade Anuncio e a entidade Cliente.
+Serão utilizado JPA e Hibernate para implementação do CRUD - o que resultará na criação de filtros para busca dos Relatórios.
+O front end será feito com Angular Framework, que permite a componentização e reutilização de códigos em diferentes telas.
 
 ## Contribuições 🤝
 Pull requests são bem vindos. Qualquer contribuição será bem vista em busca do melhor resultado possível.
